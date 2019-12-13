@@ -1,0 +1,7 @@
+C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\EmailSendServiceLib\bin\Release\netstandard2.0\EmailSendServiceLib.deps.json
+C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\EmailSendServiceLib\bin\Release\netstandard2.0\EmailSendServiceLib.dll
+C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\EmailSendServiceLib\bin\Release\netstandard2.0\EmailSendServiceLib.pdb
+C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\EmailSendServiceLib\obj\Release\netstandard2.0\EmailSendServiceLib.AssemblyInfoInputs.cache
+C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\EmailSendServiceLib\obj\Release\netstandard2.0\EmailSendServiceLib.AssemblyInfo.cs
+C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\EmailSendServiceLib\obj\Release\netstandard2.0\EmailSendServiceLib.dll
+C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\EmailSendServiceLib\obj\Release\netstandard2.0\EmailSendServiceLib.pdb

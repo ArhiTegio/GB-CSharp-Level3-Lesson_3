@@ -3,7 +3,7 @@ using GalaSoft.MvvmLight.Ioc;
 using MailSender.Service;
 
 
-namespace MailSender.ViewModel
+namespace MailSender
 {
     public class ViewModelLocator
     {

@@ -53,3 +53,8 @@ C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\MailSen
 C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\MailSender\obj\Debug\MailSender.csproj.CopyComplete
 C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\MailSender\obj\Debug\MailSender.exe
 C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\MailSender\obj\Debug\MailSender.pdb
+C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\MailSender\obj\Debug\MailSender_Content.g.cs
+C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\MailSender\bin\Debug\EncrypterDll.dll
+C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\MailSender\bin\Debug\Encryption.dll
+C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\MailSender\bin\Debug\TabSwitcher.dll
+C:\Программирование\GB-CSharp-Level3-Lesson_3\MailSender\MailSender\bin\Debug\TabSwitcher.pdb
